@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://fanlyu.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/tags/</loc>
+  </url>
+  
+</urlset>

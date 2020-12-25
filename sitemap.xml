@@ -7,11 +7,19 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/note/1/01/01/education/</loc>
   </url>
   
   <url>
-    <loc>/note/1/01/01/education/</loc>
+    <loc>/publication/1/01/01/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/1/01/01/academic-service/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -23,11 +31,11 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/publication/1/01/01/publications/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>

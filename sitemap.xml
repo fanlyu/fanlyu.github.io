@@ -3,27 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fanlyu.github.io/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/education/</loc>
+    <loc>/note/1/01/01/education/</loc>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/publication/</loc>
+    <loc>/note/</loc>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/tags/</loc>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/1/01/01/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

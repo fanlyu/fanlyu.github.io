@@ -19,11 +19,12 @@
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/categories/</loc>
+    <loc>http://fanlyu.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/</loc>
+    <loc>http://fanlyu.github.io/categories/</loc>
   </url>
   
   <url>

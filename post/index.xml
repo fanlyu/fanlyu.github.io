@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fan Lyu</title>
-    <link>/post/</link>
+    <link>http://fanlyu.github.io/post/</link>
     <description>Recent content in Posts on Fan Lyu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://fanlyu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Service</title>
-      <link>/post/1/01/01/academic-service/</link>
+      <link>http://fanlyu.github.io/post/1/01/01/academic-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/1/01/01/academic-service/</guid>
+      <guid>http://fanlyu.github.io/post/1/01/01/academic-service/</guid>
       <description>Reviewer services:  Reviewer of IEEE Transactions on Neural Networks and Learning Systems Reviewer of Pattern Recognition Letters Reviewer of Electronics Letters Reviewer of Journal of Algorithms and Computational Technology  </description>
     </item>
     

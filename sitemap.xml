@@ -19,11 +19,6 @@
   </url>
   
   <url>
-    <loc>http://fanlyu.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://fanlyu.github.io/categories/</loc>
   </url>
   
@@ -41,6 +36,10 @@
   
   <url>
     <loc>http://fanlyu.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fanlyu.github.io/</loc>
   </url>
   
 </urlset>

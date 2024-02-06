@@ -2,65 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fanlyu.com/p/hello-world/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fanlyu.com/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fanlyu.com/categories/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/blog/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fanlyu.com/tags/css/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/blog/krabby_patty/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fanlyu.com/tags/html/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/tags/markdown/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/p/markdown-syntax-guide/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/post/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/categories/syntax/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/tags/recipe/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fanlyu.com/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fanlyu.com/tags/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/about/</loc>
   </url><url>
-    <loc>https://fanlyu.com/categories/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/categories/</loc>
   </url><url>
-    <loc>https://fanlyu.com/p/image-gallery/</loc>
-    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+    <loc>https://fanlyu.com/cv/</loc>
   </url><url>
-    <loc>https://fanlyu.com/p/shortcodes/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/p/math-typesetting/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/tags/example-tag/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fanlyu.com/%E6%90%9C%E7%B4%A2/</loc>
-  </url><url>
-    <loc>https://fanlyu.com/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://fanlyu.com/publication/</loc>
   </url>
 </urlset>

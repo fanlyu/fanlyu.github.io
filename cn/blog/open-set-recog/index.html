@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang='en' class=''>
+<html lang='cn' class=''>
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name=viewport content="width=device-width, initial-scale=1">
 
-<meta name="description" content="Recipe of the legendary Krabby Patty." />
+<meta name="description" content="测试" />
 
 <title>
 	Fan Lyu (吕凡)
-	 - Krabby Patty recipe 
+	 - 开放集识别入门与理解(Open-Set Recognition) 
 </title>
 
 
@@ -116,7 +116,7 @@ if (!doNotTrack) {
 <header class="w-full flex items-center justify-between px-5 mx-auto md:pt-8 md:max-w-5xl pt-5">
 	
 	<div class="flex items-center">
-		<a href="https://fanlyu.com/" class="inline-block mx-1 font-bold no-underline select-none">
+		<a href="https://fanlyu.com/cn/" class="inline-block mx-1 font-bold no-underline select-none">
 			<h1 class="hidden md:block font-charter tracking-normal m-0">
 				Fan Lyu (吕凡)
 			</h1>
@@ -135,29 +135,29 @@ if (!doNotTrack) {
 
 	<nav class="">
 		
-		<a href="/"
+		<a href="/cn/"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
-			 Home
+			 主页
 		</a>
 		
-		<a href="/blog/"
+		<a href="/cn/blog/"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
-			 Blog
+			 博客
 		</a>
 		
-		<a href="/cv"
+		<a href="/cn/cv"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
-			 CV
+			 关于我
 		</a>
 		
-		<a href="/publication"
+		<a href="/cn/publication"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
-			 Publication
+			 论文
 		</a>
 		
-		<a href="/project"
+		<a href="/cn/project"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
-			 Project
+			 项目
 		</a>
 		
 	</nav>
@@ -167,63 +167,65 @@ if (!doNotTrack) {
 
 	<main class="w-full px-4 pt-8 mx-auto md:max-w-4xl overflow-x-hidden md:overflow-visible ">
 
-<button onclick="window.history.back()" class="bg-transparent border-none font-bold">&larr;Back</button>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css" integrity="sha384-bYdxxUwYipFNohQlHt0bjN/LCpueqWz13HufFEV1SUatKs1cm4L6fFgCi1jT643X" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js" integrity="sha384-Qsn9KnoKISj6dI8g7p1HBlNpVx0I8p1SvlwOldgi3IorMle61nQy4zEahWYtljaz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+
+<button onclick="window.history.back()" class="bg-transparent border-none font-bold">&larr;返回</button>
 <h1 class="blog-title text-center mx-auto max-w-vw-11 text-4xl sm:text-5xl">
-	Krabby Patty recipe
+	开放集识别入门与理解(Open-Set Recognition)
 </h1>
 
 <h2
 	class="blog-subtitle text-center font-serif font-thin mx-auto mb-16 md:mt-16 md:mb-32 max-w-vw-11/12 text-2xl sm:text-3xl md:text-4xl">
-	How the best burger of all time is made.
+	「机器学习」系列（一）
 </h2>
 
 <div class="blog-content text-justify leading-loose mb-12 mx-auto sm:max-w-vw-5/6 text-md">
-	<h2 id="ingredients">Ingredients:</h2>
-<p>For 4 people :</p>
-<ul>
-<li>Lots of love</li>
-<li>2 cans of crab meat</li>
-<li>1 lightly beaten egg</li>
-<li>1/2 lemon juice</li>
-<li>Breadcrumbs</li>
-<li>1 tomato</li>
-<li>Hamburger bread</li>
-<li>Pickles</li>
-<li>1 onion</li>
-<li>4 salad leaves</li>
-<li>Frying oil</li>
-<li>Salt pepper</li>
-</ul>
-<p>For the sauce:</p>
-<ul>
-<li>Worcestershire sauce</li>
-<li>Ketchup</li>
-<li>Mustard</li>
-</ul>
-<h2 id="steps-">Steps :</h2>
-<ul>
-<li>
-<p>In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.</p>
-</li>
-<li>
-<p>Then form crab pâté steaks and brown them in a pan with a drizzle of frying oil for 4 to 5 minutes on each side.</p>
-</li>
-<li>
-<p>Meanwhile, make the sauce. Combine Worcestershire sauce with mustard and ketchup. Taste then change the seasoning if necessary.</p>
-</li>
-<li>
-<p>Reserve the crab pâté steaks on a paper towel and then brown the burger buns for a few minutes.</p>
-</li>
-<li>
-<p>Cut the tomato into slices, mince the onion and cut the pickles into pieces.</p>
-</li>
-<li>
-<p>Place the crab pâté steaks on each burger bun, then add a salad leaf, a few tomato slices, onions and pickles.</p>
-</li>
-<li>
-<p>Add the sauce and cover with burger bread before tasting these delicious Krabby Krab!</p>
-</li>
-</ul>
+	<p>
+
+
+
+
+
+
+<a href="https://mp.weixin.qq.com/s/Y6mRQeb0zN6QwP3kBFWp9w" 
+	class="underline break-words"  target="_blank" rel="noopener"
+	>
+	【机器之心】离群？异常？新类？开集？分布外检测？一文搞懂其间异同！
+</a></p>
+<p><img  class="mx-auto my-4"  src="/img/open-set-recog/640.png" alt="&lt;em&gt;The Krabby Patty&lt;/em&gt;"
+	>
+
+
+<div class="text-center my-2 font-sans text-md text-grey-800">
+	<em>The Krabby Patty</em>
+</div>
+
+<img  class="mx-auto my-4"  src="/img/open-set-recog/640-2.png" alt="&lt;em&gt;The Krabby Patty&lt;/em&gt;"
+	>
+
+
+<div class="text-center my-2 font-sans text-md text-grey-800">
+	<em>The Krabby Patty</em>
+</div>
+</p>
 
 </div>
 

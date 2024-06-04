@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fan Lyu</title>
+    <title>Fan Lyu (吕凡)</title>
     <link>https://fanlyu.com/</link>
-    <description>Recent content on Fan Lyu</description>
+    <description>Recent content on Fan Lyu (吕凡)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fanlyu.com/index.xml" rel="self" type="application/rss+xml" />
@@ -19,22 +19,12 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://fanlyu.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fanlyu.com/about/</guid>
-      <description>I&amp;rsquo;m a sea sponge who works as a fry cook at the Krusty Krab: The Krusty Krabe is a fast food restaurant known for it&amp;rsquo;s signature burger:
-The Krabby Patty  Try to make one yourself and you will be as happy as I am. My first Krabby Patty  You can take a look at the recipe here .</description>
-    </item>
-    
-    <item>
       <title>Fan Lyu (吕凡)</title>
       <link>https://fanlyu.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fanlyu.com/cv/</guid>
-      <description>Personal Statement I&amp;rsquo;m a Postdoc Research Fellow in the Center for Research on Intelligent Perception and Computing (CRIPAC), Institute of Automation, Chinese Academy of Sciences (CASIA) supervised by Prof. Liang Wang . I achieved my PhD position supervised by Prof. Wei Fengin the College of Intelligence and Computing, Tianjin University (TJU). I was graduated from Suzhou University of Science and Technology as a master at 2018 advised by Prof. Fuyuan Hu.</description>
+      <description>Personal Statement I&amp;rsquo;m a Postdoc Research Fellow in the New Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA) supervised by Prof. Liang Wang . I achieved my PhD position supervised by Prof. Wei Fengin the College of Intelligence and Computing, Tianjin University (TJU). I was graduated from Suzhou University of Science and Technology as a master at 2018 advised by Prof. Fuyuan Hu. My major is Computer Application Technology, and my research focuses on Continual Learning and Computer Vision.</description>
     </item>
     
     <item>
@@ -43,7 +33,9 @@ The Krabby Patty  Try to make one yourself and you will be as happy as I am. My 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fanlyu.com/publication/</guid>
-      <description>2024  Weiqi Li, Fan Lyu, Fanhua Shang, Liang Wan, Wei Feng. Long-Tailed Learning as Multi-Objective Optimization. AAAI 2024. [pdf]  [code]   2023  Kaile Du*, Fan Lyu*, Linyan Li, Fuyuan Hu, Wei Feng, Fenglei Xu, Xuefeng Xi, Hanjing Cheng. Multi-Label Continual Learning using Augmented Graph Convolutional Network. [pdf]  Daofeng Liu*, Fan Lyu, Linyan Li, Fuyuan Hu. Centroid-based Re-hearsal for Online Continual Learning[C]. In ICASSP, 2023. Fan Lyu, Qing Sun, Fanhua Shang, Wei Feng, Liang Wan.</description>
+      <description>2024   Jiayao Tan, Fan Lyu, Linyan Li, Fuyuan Hu, Tingliang Feng, Fenglei Xu, Zhang Zhang, Rui Yao, Liang Wang. Dynamic V2X Perception from Road-to-Vehicle Vision. IEEE TIV 2024. [pdf]  [code] 
+  Ziqin Zhaoa, Fan Lyu, Linyan Li, Fuyuan Hu, Minming Gua, Li Sun. Towards Long-Term Remembering in Federated Continual Learning. Congnitive Compution 2024. [pdf]  [code] 
+  Liqing Gao, Wei Feng, Fan Lyu, Liang Wan.</description>
     </item>
     
   </channel>

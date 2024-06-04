@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最新博客 on Fan Lyu (吕凡)</title>
+    <link>https://fanlyu.com/cn/blog/</link>
+    <description>Recent content in 最新博客 on Fan Lyu (吕凡)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fanlyu.com/cn/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开放集识别入门与理解(Open-Set Recognition)</title>
+      <link>https://fanlyu.com/cn/blog/open-set-recog/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanlyu.com/cn/blog/open-set-recog/</guid>
+      <description> 【机器之心】离群？异常？新类？开集？分布外检测？一文搞懂其间异同！ 
+The Krabby Patty  The Krabby Patty  </description>
+    </item>
+    
+  </channel>
+</rss>

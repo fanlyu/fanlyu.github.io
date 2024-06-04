@@ -7,16 +7,16 @@
 
 
 
-<meta name="description" content="Boilerplate website" />
+<meta name="description" content="Fan Lyu" />
 
 
 
 <title>
-	Fan Lyu
+	Fan Lyu (吕凡)
 	 - Get smarter about what matters to you. 
 </title>
 
-<link href="https://fanlyu.com/blog/index.xml" rel="alternate" type="application/rss+xml" title="Fan Lyu" />
+<link href="https://fanlyu.com/blog/index.xml" rel="alternate" type="application/rss+xml" title="Fan Lyu (吕凡)" />
 
 
 
@@ -59,8 +59,8 @@ if (!doNotTrack) {
 
 
 
-<link rel="stylesheet" href="https://fanlyu.com/css/main.min.1d2d966d886897d8a767c7121ce1e2f9.css" crossorigin="anonymous" media="screen"
-	integrity="md5-HS2WbYhol9inZ8cSHOHi+Q==">
+<link rel="stylesheet" href="https://fanlyu.com/css/main.min.d82a50906172e980c1fc0483c38abda2.css" crossorigin="anonymous" media="screen"
+	integrity="md5-2CpQkGFy6YDB/ASDw4q9og==">
 
 
 
@@ -94,6 +94,25 @@ if (!doNotTrack) {
 	integrity="md5-G2aV7eigPehzEkwQuVc0Kw==">
 
 
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css" integrity="sha384-bYdxxUwYipFNohQlHt0bjN/LCpueqWz13HufFEV1SUatKs1cm4L6fFgCi1jT643X" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js" integrity="sha384-Qsn9KnoKISj6dI8g7p1HBlNpVx0I8p1SvlwOldgi3IorMle61nQy4zEahWYtljaz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
 </head>
 
 <body class="min-h-screen bg-secondary-light dark:bg-secondary text-primary relative pb-24">
@@ -105,7 +124,7 @@ if (!doNotTrack) {
 	<div class="flex items-center">
 		<a href="https://fanlyu.com/" class="inline-block mx-1 font-bold no-underline select-none">
 			<h1 class="hidden md:block font-charter tracking-normal m-0">
-				Fan Lyu
+				Fan Lyu (吕凡)
 			</h1>
 
 			<div class="md:hidden">
@@ -118,6 +137,16 @@ if (!doNotTrack) {
 			</div>
 		</a>
 		
+		<div class="inline-block pl-2 ml-2 border-l border-gray-600">
+			
+			<a href="https://fanlyu.com/cn/blog/" class="no-underline inline-block px-1">
+				<span class="font-bold">
+					CN
+				</span>
+			</a>
+			
+		</div>
+		
 	</div>
 
 	<nav class="">
@@ -125,6 +154,11 @@ if (!doNotTrack) {
 		<a href="/"
 			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
 			 Home
+		</a>
+		
+		<a href="/blog/"
+			class='mx-1 md:mx-2 hover:text-primary-light dark:hover:text-primary-dark no-underline'>
+			 Blog
 		</a>
 		
 		<a href="/cv"
@@ -148,9 +182,9 @@ if (!doNotTrack) {
 	
 
 	<main class="w-full px-4 pt-8 mx-auto md:max-w-4xl overflow-x-hidden md:overflow-visible ">
-<h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
+<h2 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
 	Get smarter about what matters to you.
-</h1>
+</h2>
 <div class="overflow-hidden flex flex-wrap justify-center mx-auto my-16 px-4 max-w-6xl">
 	
 	
@@ -168,15 +202,17 @@ if (!doNotTrack) {
 <div>
 	
 	
-	<div class="max-w-xl mx-auto">
+	<div class="max-w-screen-xl mx-auto">
 		<a href="https://fanlyu.com/blog/krabby_patty/" class="no-underline block">
 	<div class="mb-4 border border-primary-light dark:border-secondary-light rounded-md overflow-hidden">
 		
 			<span class="block">
 				
-				<div class="h-48 overflow-hidden bg-cover bg-center" style="background-image: url('https://fanlyu.com/img/krabby_patty.webp');">
+				<div class="h-32 overflow-hidden bg-cover bg-center" style="background-image: url('https://fanlyu.com/img/krabby_patty.webp');
+				width:20%;float:left">
 				</div>
 				
+				<div style="width:80%;float:left">
 				<div class="px-4 mt-3 mb-3">
 					<h2 class="m-0 inline-block overflow-ellipsis">Krabby Patty recipe</h2>
 					<span class="block no-underline font-thin text-primary dark:text-primary-light -mt-2">
@@ -187,7 +223,8 @@ if (!doNotTrack) {
 					
 					How the best burger of all time is made.
 					
-					<span class="text-xs mt-3 block no-underline">Read more...</span>
+					<span class="text-xs mt-3 block no-underline" style="float:right">Read more...</span>
+				</div>
 				</div>
 			</span>
 	</div>

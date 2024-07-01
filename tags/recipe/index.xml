@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recipe on Fan Lyu (吕凡)</title>
-    <link>https://fanlyu.com/tags/recipe/</link>
-    <description>Recent content in recipe on Fan Lyu (吕凡)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Recipe on Fan Lyu (吕凡)</title>
+    <link>//localhost:1313/tags/recipe/</link>
+    <description>Recent content in Recipe on Fan Lyu (吕凡)</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fanlyu.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Krabby Patty recipe</title>
-      <link>https://fanlyu.com/blog/krabby_patty/</link>
+      <link>//localhost:1313/blog/krabby_patty/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fanlyu.com/blog/krabby_patty/</guid>
-      <description>Ingredients: For 4 people :
- Lots of love 2 cans of crab meat 1 lightly beaten egg 1/2 lemon juice Breadcrumbs 1 tomato Hamburger bread Pickles 1 onion 4 salad leaves Frying oil Salt pepper  For the sauce:
- Worcestershire sauce Ketchup Mustard  Steps :   In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.</description>
+      <guid>//localhost:1313/blog/krabby_patty/</guid>
+      <description>Ingredients: For 4 people :&#xA;Lots of love 2 cans of crab meat 1 lightly beaten egg 1/2 lemon juice Breadcrumbs 1 tomato Hamburger bread Pickles 1 onion 4 salad leaves Frying oil Salt pepper For the sauce:&#xA;Worcestershire sauce Ketchup Mustard Steps : In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.&#xA;Then form crab pâté steaks and brown them in a pan with a drizzle of frying oil for 4 to 5 minutes on each side.</description>
     </item>
-    
   </channel>
 </rss>

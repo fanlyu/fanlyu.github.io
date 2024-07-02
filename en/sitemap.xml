@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://fanlyu.com/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/"
+                href="https://fanlyu.com/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="https://fanlyu.com/"
                 />
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>https://fanlyu.com/blog/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/blog/"
+                href="https://fanlyu.com/cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/blog/"
+                href="https://fanlyu.com/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/blog/krabby_patty/</loc>
+    <loc>https://fanlyu.com/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/recipe/</loc>
+    <loc>https://fanlyu.com/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://fanlyu.com/tags/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/tags/"
+                href="https://fanlyu.com/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="https://fanlyu.com/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://fanlyu.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/categories/"
+                href="https://fanlyu.com/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="https://fanlyu.com/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/cv/</loc>
+    <loc>https://fanlyu.com/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/cv/"
+                href="https://fanlyu.com/cn/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/cv/"
+                href="https://fanlyu.com/cv/"
                 />
   </url><url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>https://fanlyu.com/publication/</loc>
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fan Lyu (吕凡)</title>
-    <link>//localhost:1313/</link>
+    <link>https://fanlyu.com/</link>
     <description>Recent content on Fan Lyu (吕凡)</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fanlyu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Krabby Patty recipe</title>
-      <link>//localhost:1313/blog/krabby_patty/</link>
+      <link>https://fanlyu.com/blog/krabby_patty/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/krabby_patty/</guid>
+      <guid>https://fanlyu.com/blog/krabby_patty/</guid>
       <description>Ingredients: For 4 people :&#xA;Lots of love 2 cans of crab meat 1 lightly beaten egg 1/2 lemon juice Breadcrumbs 1 tomato Hamburger bread Pickles 1 onion 4 salad leaves Frying oil Salt pepper For the sauce:&#xA;Worcestershire sauce Ketchup Mustard Steps : In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.&#xA;Then form crab pâté steaks and brown them in a pan with a drizzle of frying oil for 4 to 5 minutes on each side.</description>
     </item>
     <item>
       <title>Fan Lyu (吕凡)</title>
-      <link>//localhost:1313/cv/</link>
+      <link>https://fanlyu.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cv/</guid>
+      <guid>https://fanlyu.com/cv/</guid>
       <description>Personal Statement I&amp;rsquo;m a Postdoc Research Fellow in the New Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA) supervised by Prof. Liang Wang . I achieved my PhD position supervised by Prof. Wei Feng in the College of Intelligence and Computing, Tianjin University (TJU). I was graduated from Suzhou University of Science and Technology as a master at 2018 advised by Prof. Fuyuan Hu. My major is Computer Application Technology, and my research focuses on Continual Learning and Computer Vision.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publication/</link>
+      <link>https://fanlyu.com/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/</guid>
+      <guid>https://fanlyu.com/publication/</guid>
       <description>2024 Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, Chen Lu, Guangcan Liu. Confidence Self-Calibration for Multi-Label Class-Incremental Learning. In ECCV, 2024. [pdf] [code] Liqing Gao, Fan Lyu, Peng Shi, Lei Zhu, Junfu Pu, Liang Wan, Wei Feng. Overcoming Modality Bias in Question-Driven Sign Language Video Translation. IEEE TCSVT, 2024. [pdf] [code] Ziqing Zhao, Fan Lyu, Linyan Li, Fuyuan Hu, Minming Gu, Sun Li. Towards Long-Term Remembering in Federated Continual Learning.</description>
     </item>
   </channel>

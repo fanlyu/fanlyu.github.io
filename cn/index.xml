@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fan Lyu (吕凡)</title>
-    <link>//localhost:1313/cn/</link>
+    <link>https://fanlyu.com/cn/</link>
     <description>Recent content on Fan Lyu (吕凡)</description>
     <generator>Hugo</generator>
     <language>cn</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fanlyu.com/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开放集识别入门与理解(Open-Set Recognition)</title>
-      <link>//localhost:1313/cn/blog/open-set-recog/</link>
+      <link>https://fanlyu.com/cn/blog/open-set-recog/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cn/blog/open-set-recog/</guid>
+      <guid>https://fanlyu.com/cn/blog/open-set-recog/</guid>
       <description> 【机器之心】离群？异常？新类？开集？分布外检测？一文搞懂其间异同！ The Krabby Patty The Krabby Patty </description>
     </item>
     <item>
       <title>Fan Lyu (吕凡)</title>
-      <link>//localhost:1313/cn/cv/</link>
+      <link>https://fanlyu.com/cn/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cn/cv/</guid>
+      <guid>https://fanlyu.com/cn/cv/</guid>
       <description>个人信息 我是中国科学院自动化研究所智能感知与计算研究中心（CRIPAC）的博士后研究员，由王亮教授指导。我在天津大学智能与计算学院在冯伟教授的指导下获得了博士学位。我于2018年在苏州科技大学获得硕士学位，导师是胡伏原教授。我的专业是计算机应用技术，研究方向集中在持续学习和计算机视觉上。 目前，我的研究兴趣主要集中在可持续人工智能和交互式人工智能上。&#xA;社会经历 2023-目前, 科学家, 律自由科技有限公司 工作职责: Develop AI algorithms for legal self-service system 2023-目前, 博士后研究员, 中国科学院自动化研究所 研究兴趣: 可持续人工智能, 交互式人工智能 导师: 王亮 研究员 2015-2016, 兼职软件工程师, 苏州佳图智绘科技有限公司 工作职责: 参与到网站开发，使用到编程语言包括 C#，JavaScript，HTML 等 教育经历 2018-2023, 工学博士, 天津大学 专业: 计算机应用技术 研究领域: 深度学习; 机器学习; 连续学习; 多模态学习 导师: 冯伟 教授 2015-2018, 工学硕士, 苏州科技大学 专业: 光学工程 研究领域: 图像处理；模式识别 导师: 胡伏原教授 2011-2015, 工学学士, 苏州科技大学 专业: 电子信息工程 荣誉 2023 中国国际大学生创新大赛（原“互联网+”）全国金奖 2023 第 5 届全球校园人工智能算法精英大赛全国总决赛二等奖（指导老师） 2023 第 18 届“春晖杯”中国留学人员创新创业大赛优胜奖 2023 2022 天津市高校优秀学生 2022 天津大学学生科学奖 2022 天津大学国际交流先进个人 2022 天津大学科技创新先进个人 2022 天津大学智算创新创业之星 2022 天津大学校三好学生 2021 2022 2023 天津大学谭旭光校友奖学金获得者 2022 2021 “互联网+”大学生创新创业大赛天津市金奖 2021 </description>
     </item>
   </channel>

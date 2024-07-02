@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/cn/</loc>
+    <loc>https://fanlyu.com/cn/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="https://fanlyu.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/"
+                href="https://fanlyu.com/cn/"
                 />
   </url><url>
-    <loc>//localhost:1313/cn/tags/</loc>
+    <loc>https://fanlyu.com/cn/tags/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="https://fanlyu.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/tags/"
+                href="https://fanlyu.com/cn/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/cn/blog/open-set-recog/</loc>
+    <loc>https://fanlyu.com/cn/blog/open-set-recog/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/cn/blog/</loc>
+    <loc>https://fanlyu.com/cn/blog/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/blog/"
+                href="https://fanlyu.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/blog/"
+                href="https://fanlyu.com/cn/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://fanlyu.com/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/cn/categories/</loc>
+    <loc>https://fanlyu.com/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="https://fanlyu.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/categories/"
+                href="https://fanlyu.com/cn/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/cn/cv/</loc>
+    <loc>https://fanlyu.com/cn/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/cv/"
+                href="https://fanlyu.com/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="//localhost:1313/cn/cv/"
+                href="https://fanlyu.com/cn/cv/"
                 />
   </url>
 </urlset>

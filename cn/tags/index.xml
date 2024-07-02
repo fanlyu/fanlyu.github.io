@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fan Lyu (吕凡)</title>
-    <link>//localhost:1313/cn/tags/</link>
+    <link>https://fanlyu.com/cn/tags/</link>
     <description>Recent content in Tags on Fan Lyu (吕凡)</description>
     <generator>Hugo</generator>
     <language>cn</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fanlyu.com/cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>机器学习</title>
-      <link>//localhost:1313/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <link>https://fanlyu.com/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>https://fanlyu.com/cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
   </channel>

@@ -840,8 +840,8 @@ video {
 .w-full {
   width: 100%; }
 
-.max-w-3\/4 {
-  max-width: 75%; }
+.max-w-1\/4 {
+  max-width: 25%; }
 
 .max-w-4xl {
   max-width: 56rem; }
@@ -1325,8 +1325,8 @@ video {
   .sm\:w-1\/2 {
     width: 50%; }
 
-  .sm\:max-w-2\/3 {
-    max-width: 66.66666666666666%; }
+  .sm\:max-w-1\/4 {
+    max-width: 25%; }
 
   .sm\:max-w-vw-5\/6 {
     max-width: 83.33333333333334vw; }
@@ -1386,11 +1386,11 @@ video {
   .md\:h-6 {
     height: 1.5rem; }
 
+  .md\:w-1 {
+    width: 0.25rem; }
+
   .md\:w-1\/2 {
     width: 50%; }
-
-  .md\:w-3\/4 {
-    width: 75%; }
 
   .md\:w-6 {
     width: 1.5rem; }

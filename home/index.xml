@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fan Lyu</title>
+    <link>//localhost:1313/home/</link>
+    <description>Recent content in Homes on Fan Lyu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/home/hero-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/hero-copy/</guid>
+      <description>I am currently a Postdoctoral Research Fellow in the New Laboratory of Pattern Recognition (NLPR) at the Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Prof. Liang Wang. I completed my PhD at the College of Intelligence and Computing, Tianjin University (TJU), where I was advised by Prof. Wei Feng. Prior to that, I graduated with a master’s degree from Suzhou University of Science and Technology in 2018, under the guidance of Prof.</description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>//localhost:1313/home/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hosted Projects</title>
+      <link>//localhost:1313/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latest News</title>
+      <link>//localhost:1313/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/news/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

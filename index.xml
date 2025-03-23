@@ -6,8 +6,15 @@
     <description>Recent content on Fan Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fanlyu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controllable Continual Test-Time Adaptation</title>
+      <link>https://fanlyu.com/publication/2025_icme_ccotta/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanlyu.com/publication/2025_icme_ccotta/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Conformal Uncertainty Indicator for Continual Test-Time Adaptation</title>
       <link>https://fanlyu.com/publication/2025_arxiv_cui/</link>

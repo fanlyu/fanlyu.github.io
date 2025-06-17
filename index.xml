@@ -6,8 +6,15 @@
     <description>Recent content on Fan Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fanlyu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constructing Enhanced Mutual Information for Online Class-Incremental Learning</title>
+      <link>https://fanlyu.com/publication/2025-tmm-emi/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanlyu.com/publication/2025-tmm-emi/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Few-Shot Class-Incremental Learning via Asymmetric Supervised Contrastive Learning</title>
       <link>https://fanlyu.com/publication/2025-tcsvt-asyclr/</link>
@@ -185,37 +192,51 @@
     </item>
     <item>
       <title>gongbochang</title>
-      <link>https://fanlyu.com/student/gongbochang/</link>
+      <link>https://fanlyu.com/student/24-gongbochang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanlyu.com/student/gongbochang/</guid>
+      <guid>https://fanlyu.com/student/24-gongbochang/</guid>
       <description></description>
     </item>
     <item>
       <title>luqiongding</title>
-      <link>https://fanlyu.com/student/luqiongding/</link>
+      <link>https://fanlyu.com/student/24-luqiongding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanlyu.com/student/luqiongding/</guid>
+      <guid>https://fanlyu.com/student/24-luqiongding/</guid>
       <description></description>
     </item>
     <item>
       <title>qihaozhang</title>
-      <link>https://fanlyu.com/student/qihaozhang/</link>
+      <link>https://fanlyu.com/student/24-qihaozhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanlyu.com/student/qihaozhang/</guid>
+      <guid>https://fanlyu.com/student/24-qihaozhang/</guid>
       <description></description>
     </item>
     <item>
       <title>tianleliu</title>
-      <link>https://fanlyu.com/student/tianleliu/</link>
+      <link>https://fanlyu.com/student/24-tianleliu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanlyu.com/student/tianleliu/</guid>
+      <guid>https://fanlyu.com/student/24-tianleliu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tianleliu</title>
+      <link>https://fanlyu.com/student/24-yinyingmei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fanlyu.com/student/24-yinyingmei/</guid>
       <description></description>
     </item>
     <item>
       <title>yinyingmei</title>
-      <link>https://fanlyu.com/student/yinyingmei/</link>
+      <link>https://fanlyu.com/student/23-yinyingmei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanlyu.com/student/yinyingmei/</guid>
+      <guid>https://fanlyu.com/student/23-yinyingmei/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>yinyingmei</title>
+      <link>https://fanlyu.com/student/23-yuepanli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fanlyu.com/student/23-yuepanli/</guid>
       <description></description>
     </item>
   </channel>

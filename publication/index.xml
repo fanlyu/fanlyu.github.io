@@ -6,8 +6,15 @@
     <description>Recent content in Publications on Fan Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fanlyu.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constructing Enhanced Mutual Information for Online Class-Incremental Learning</title>
+      <link>https://fanlyu.com/publication/2025-tmm-emi/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanlyu.com/publication/2025-tmm-emi/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Few-Shot Class-Incremental Learning via Asymmetric Supervised Contrastive Learning</title>
       <link>https://fanlyu.com/publication/2025-tcsvt-asyclr/</link>

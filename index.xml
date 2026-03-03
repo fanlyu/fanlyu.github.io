@@ -68,7 +68,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is blockquote, Will make it &lt;em&gt;better now&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;I want to do with you what spring does with the cherry trees.&amp;rsquo; &lt;!-- raw HTML omitted --&gt;cited ~Pablo Neruda&lt;!-- raw HTML omitted --&gt;*&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;I want to do with you what spring does with the cherry trees.&amp;rsquo; &lt;cite&gt;cited ~Pablo Neruda&lt;/cite&gt;*&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Et harum quidem &lt;em&gt;rerum facilis&lt;/em&gt; est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit&lt;/p&gt;
